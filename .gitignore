@@ -1,0 +1,6 @@
+.venv
+venv
+.envrc
+*.ipynb
+__pycache__
+temp
